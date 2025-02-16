@@ -12,6 +12,11 @@ ifdef::env-github[]
 :stem: latexmath
 endif::[]
 
+== Overview
+
+![Overview](https://raw.githubusercontent.com/chedlisilini/HHU-Java-Software-Project/refs/heads/main/Dokumentation/Story%20telling.jpg)
+
+
 == Einführung in die Problemstellung
 
 „Bei Geld hört die Freundschaft auf” heißt es. Rund um das Geld entstehen oft Probleme zwischen Menschen. Wir wollen uns des Themas annehmen und für Gruppen von Personen, die gemeinsame Ausgaben tätigen (zum Beispiel Wohngemeinschaften und Reisegruppen), eine Software schreiben, mit deren Hilfe die Ausgaben transparent aufgeschlüsselt und die Konten möglichst einfach ausgeglichen werden können. 
